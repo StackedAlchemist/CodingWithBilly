@@ -4,7 +4,7 @@
 
 This repository contains the portfolio and project work of **Billy Leroy Williams**, a software developer based in Mesa, Arizona. Projects here focus on building structured web applications, interactive tools, and algorithmic systems using vanilla JavaScript and modern browser APIs.
 
-🌐 **Live Portfolio:** [stackedalchemist.github.io/stacked-alchemist](https://stackedalchemist.github.io/stacked-alchemist)
+🌐 **Live Portfolio:** [stackedalchemist.dev](https://stackedalchemist.dev)
 
 ---
 
@@ -170,3 +170,4 @@ Software developer focused on building structured web systems, interactive tools
 ---
 
 *© 2026 Billy Williams — Stacked Alchemist*
+
