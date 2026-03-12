@@ -84,6 +84,10 @@ https://stackedalchemist.dev
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackedAlchemist&layout=compact&theme=tokyonight)
 
+<img width="685" height="716" alt="image" src="https://github.com/user-attachments/assets/d2c651ab-5d47-4d65-a98e-cb0f00aa5be3" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackedAlchemist&layout=compact&theme=tokyonight)
+
 ---
 
 # 🔗 Connect
@@ -101,3 +105,4 @@ https://stackedalchemist.dev
 Founder of **Stacked Alchemist LLC**
 
 Building structured software systems, developer tools, and interactive applications.
+
