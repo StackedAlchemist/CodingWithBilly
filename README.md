@@ -1,173 +1,103 @@
-# ⚗ Stacked Alchemist — Developer Portfolio
+# ⚗ Billy Leroy Williams
+### Software Developer | Builder of Structured Web Systems
 
-> Where structured systems meet creative engineering.
+Mesa, Arizona
 
-This repository contains the portfolio and project work of **Billy Leroy Williams**, a software developer based in Mesa, Arizona. Projects here focus on building structured web applications, interactive tools, and algorithmic systems using vanilla JavaScript and modern browser APIs.
+I build browser-based applications, system dashboards, and interactive tools using **vanilla JavaScript and modern browser APIs**.
 
-🌐 **Live Portfolio:** [stackedalchemist.dev](https://stackedalchemist.dev)
+My work focuses on:
 
----
-
-## Featured Systems
-
-These projects represent larger applications and full system design.
-
----
-
-### ⚗ The Vault
-**Full Personal Finance Dashboard**
-
-A structured financial command center for tracking accounts, budgets, savings goals, and spending analytics.
-
-**Features:**
-- Multi-account tracking (checking, savings, credit, cash)
-- CSV and PDF bank statement import
-- Budget limits per category with progress tracking
-- Savings goals with contribution history
-- Recurring bills and subscription tracking
-- Rich analytics — spending trends, income vs. expenses, category breakdowns
-
-🔗 [Live Demo](https://stackedalchemist.github.io/stacked-alchemist/the-vault) · [Source](https://github.com/StackedAlchemist/the-vault)
+- Structured web systems
+- Interactive applications & games
+- Algorithmic problem solving
+- Clean UI architecture
+- Debugging complex workflows
 
 ---
 
-### ♟ Arcane Circuit — AI Chess Engine
-**Browser-Based Chess with Minimax AI**
+# ⚡ Featured Projects
 
-A fully playable chess game built entirely in vanilla JavaScript with a custom AI opponent and cyberpunk visual design.
+## ♟ Arcane Circuit — AI Chess Engine
+Fully playable browser chess game built with vanilla JavaScript.
 
-**Features:**
-- Full legal chess rules — castling, en passant, pawn promotion
-- AI opponent using minimax algorithm with alpha-beta pruning
+Features:
+- Minimax AI with alpha-beta pruning
 - Three difficulty levels
 - Move history tracking
-- Cyberpunk / alchemist-themed UI
-
-🔗 [Live Demo](https://stackedalchemist.github.io/stacked-alchemist/arcane-circuit) · [Source](https://github.com/StackedAlchemist/arcane-circuit)
+- Cyberpunk UI design
 
 ---
 
-### 📖 The Codex
-**Split-Screen Book & Game Tracker with Live API Search**
+## 📊 The Vault
+Personal finance dashboard for tracking accounts, budgets, and savings goals.
 
-A dual-library tracker with live search integration pulling from external APIs.
-
-**Features:**
-- Open Library API integration for book search
-- IGDB API integration for game search (via Cloudflare Worker proxy)
-- Split-screen library interface
-- Custom status tracking, ratings, and notes
-- Upcoming release tracking
-
-🔗 [Live Demo](https://stackedalchemist.github.io/stacked-alchemist/the-codex) · [Source](https://github.com/StackedAlchemist/the-codex)
+Features:
+- Multi-account financial tracking
+- CSV / PDF import
+- Budget analytics
+- Data visualization
 
 ---
 
-### 🏛 Ironhold
-**Property Management Platform**
+## 📖 The Codex
+Books & games tracker with live API integration.
 
-A full landlord-tenant property management system with lease management, maintenance tracking, and AI-assisted communication.
-
-**Features:**
-- Multi-property portfolio dashboard
-- Tenant portal with rent tracking and payment status
-- Lease creation with e-signature flow
-- AI-drafted maintenance responses powered by Claude API
-- Invoice and expense tracking
-
-🔗 [Live Demo](https://stackedalchemist.github.io/ironhold) · [Source](https://github.com/StackedAlchemist/ironhold)
+Features:
+- Open Library API integration
+- IGDB game database integration
+- Split-screen UI
+- Real-time search
 
 ---
 
-## Interactive Applications
+# 🛠 Tech Stack
 
-Smaller but polished browser-based tools, games, and utilities.
+**Languages**
 
-| Project | Description |
-|---|---|
-| 👾 Cosmic Rift Defender | Space Invaders clone with particle explosions and enemy AI |
-| 🎮 Arcane Tetris | Tetris with ghost pieces, hold mechanic, and scoring |
-| 🧮 Arithmetica | Scientific calculator with full expression parsing |
-| ✨ Spell Generator | Randomized fantasy spell engine with unique incantations |
-| 🕐 Arcane Timepiece | Digital clock with world time zones, alarms, and countdown |
-| 💰 Arcane Ledger | Expense tracker with categories, filters, and localStorage |
+HTML  
+CSS  
+JavaScript (ES6+)
 
----
+**Tools**
 
-## Technology
-
-All projects are intentionally built without frameworks to demonstrate deep understanding of the underlying browser platform.
-
-**Core Stack**
-- HTML5, CSS3, JavaScript (ES6+)
+Git  
+GitHub  
+VS Code  
 
 **Browser APIs**
-- Canvas API
-- localStorage / sessionStorage
-- Fetch API
-- FileReader API
 
-**External APIs & Services**
-- Open Library API
-- IGDB API
-- Firebase (Firestore, Authentication)
-- Stripe (payments and subscriptions)
-- Anthropic Claude API
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Vercel (serverless deployments)
-- Cloudflare Workers
-
-**Design Approach**
-
-The Stacked Alchemist portfolio combines structured UI architecture, modular JavaScript systems, custom visual design, and lightweight browser-native tooling. Projects prioritize understanding the platform over abstracting it away.
+Canvas API  
+localStorage  
+Fetch API  
 
 ---
 
-## Running Projects Locally
+# 🌐 Portfolio
 
-Clone the repository:
-
-```bash
-git clone https://github.com/StackedAlchemist/stacked-alchemist.git
-cd stacked-alchemist
-```
-
-Open `index.html` in a browser.
-
-Some projects using ES modules require a local server:
-
-```bash
-npx serve .
-```
-
-Or use the **VS Code Live Server** extension.
+https://stackedalchemist.dev
 
 ---
 
-## About the Developer
+# 📊 GitHub Stats
 
-**Billy Leroy Williams** — Mesa, Arizona
+![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=StackedAlchemist&show_icons=true&theme=tokyonight)
 
-Software developer focused on building structured web systems, interactive tools, and algorithmic applications.
-
-**Background in:**
-- Security operations and technical support
-- PC system building and hardware
-- Software architecture and debugging complex workflows
-- Freelance web development (Stacked Alchemist)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StackedAlchemist&layout=compact&theme=tokyonight)
 
 ---
 
-## Links
+# 🔗 Connect
 
-- 🌐 Portfolio — [stackedalchemist.github.io/stacked-alchemist](https://stackedalchemist.github.io/stacked-alchemist)
-- 💻 GitHub — [github.com/StackedAlchemist](https://github.com/StackedAlchemist)
-- 🔗 LinkedIn — [linkedin.com/in/blwilliams83](https://www.linkedin.com/in/blwilliams83)
+LinkedIn  
+https://linkedin.com/in/blwilliams83
+
+Portfolio  
+https://stackedalchemist.dev
 
 ---
 
-*© 2026 Billy Williams — Stacked Alchemist*
+# ⚗ Stacked Alchemist
 
+Founder of **Stacked Alchemist LLC**
+
+Building structured software systems, developer tools, and interactive applications.
